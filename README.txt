@@ -10,3 +10,4 @@ HarborNestDigital
 7. Invoices open a print window; allow popups if prompted. Payment records are manual; no payments are processed.
 
 This is a digital browser app, not an online booking portal or shared staff database. Keep a separate backup outside your browser. Contact HarborNestDigital through your Etsy order for help.
+
